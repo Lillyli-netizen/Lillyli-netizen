@@ -8,7 +8,7 @@ I’m interested in **mathematics, document understanding, and data tools**. I l
 
 A dependency-free Python CLI that turns HTML tables with merged cells into CSV or JSON. The JSON records original cell positions and spans so the output can be inspected or used downstream.
 
-[Quickstart](https://github.com/Lillyli-netizen/table-grid-cli#quickstart) · [See input and output examples](https://github.com/Lillyli-netizen/table-grid-cli/tree/main/examples)
+[Try it online](https://lillyli-netizen.github.io/Me-designed-page/table-grid/) · [Quickstart](https://github.com/Lillyli-netizen/table-grid-cli#quickstart) · [See input and output examples](https://github.com/Lillyli-netizen/table-grid-cli/tree/main/examples)
 
 ### [Bilingual portfolio](https://github.com/Lillyli-netizen/Me-designed-page)
 
