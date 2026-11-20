@@ -10,7 +10,7 @@ A dependency-free Python CLI that turns HTML tables with merged cells into CSV o
 
 [Try it online](https://lillyli-netizen.github.io/Me-designed-page/table-grid/) · [Quickstart](https://github.com/Lillyli-netizen/table-grid-cli#quickstart) · [See input and output examples](https://github.com/Lillyli-netizen/table-grid-cli/tree/main/examples)
 
-### [Checkpoint Inspect](projects/checkpoint-inspect/README.md)
+### [Checkpoint Inspect](https://github.com/Lillyli-netizen/checkpoint-inspect)
 
 A read-only Python CLI for inspecting training checkpoint files, finding missing or truncated Hugging Face weight shards, and estimating how many additional saves fit on disk.
 
@@ -25,5 +25,5 @@ An English and Chinese personal site with light and dark themes and scroll-aware
 ## Notes
 
 - [When does a rotated sine wave stop falling?](notes/rotating-a-sine-wave.md) — the question behind the cover.
-- [LingBot-VLA 2.0 learning guide](notes/lingbot-vla-2/README.md) — a Chinese-language guide with a [CPU action-alignment experiment](https://lillyli-netizen.github.io/Me-designed-page/training-labs/#alignment).
+- [LingBot-VLA 2.0 learning guide](https://github.com/Lillyli-netizen/lingbot-vla-v2-guide) — a Chinese-language guide with a [CPU action-alignment experiment](https://lillyli-netizen.github.io/Me-designed-page/training-labs/#alignment).
 - [Python learning notes](https://github.com/Lillyli-netizen/python-notes)
